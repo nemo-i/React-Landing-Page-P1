@@ -1,7 +1,7 @@
 # React Landing Page Project #1
 
 This project is a solo project created after enrolling in Scrimba’s free React course.
-you can view the website from here "https://react-landing-p1.netlify.app/" better to open from pc or large screen not supported media query this time
+you can view the website from here "https://master--react-landing-p1.netlify.app/" better to open from pc or large screen not supported media query this time
 
 ## Description
 
