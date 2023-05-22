@@ -2,6 +2,7 @@
 
 This project is a solo project created after enrolling in Scrimba’s free React course.
 you can view the website from here "https://master--react-landing-p1.netlify.app/" better to open from pc or large screen not supported media query this time
+![Screenshot 2023-05-22 190808](https://github.com/nemo-i/React-Landing-Page-P1/assets/133984357/595438f8-feb4-4b45-9801-7c6a75a87007)
 
 ## Description
 
